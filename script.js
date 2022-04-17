@@ -4,3 +4,5 @@ const div = document.createElement('div');
 div.textContent = 'JS rules!!!';
 
 body.append(div);
+
+console.log('test2')
